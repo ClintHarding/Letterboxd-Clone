@@ -1,7 +1,7 @@
 # Letterboxd Clone
 
 
-This is a clone of the popular movie and film review website [Letterboxd](https://letterboxd.com/). The clone aims to replicate the core features and user experience of the original site, allowing users to discover, rate, and review movies. It is built using [technologies/frameworks you used] and serves as a demonstration of web development skills.
+This is a clone of the popular movie and film review website [Letterboxd](https://letterboxd.com/). The clone aims to replicate the core features and user experience of the original site, allowing users to discover, rate, and review movies. It is built using HTML, CSS, jQuery, PHP, AWS RDS, TMDB API and serves as a demonstration of web development skills.
 
 ## Table of Contents
 
@@ -43,6 +43,7 @@ This is a clone of the popular movie and film review website [Letterboxd](https:
 - Frontend: [React](https://reactjs.org/), [Redux](https://redux.js.org/)
 - Backend: [PHP]
 - Database: [AWS RDS]
+- API: [TMDb API}
 - Styling: [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [Styled Components](https://styled-components.com/)
 
 ## Contributing
